@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node dist/index.js",
     "dev": "ts-node-dev src/index.ts",
-    "build": "tsc"
+    "build": "npm i -g typescript && tsc"
   },
   "keywords": [],
   "author": "devat-vietnam",
